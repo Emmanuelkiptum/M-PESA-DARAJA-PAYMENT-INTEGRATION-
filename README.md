@@ -1,2 +1,3 @@
-# M-PESA-DARAJA-PAYMENT-INTEGRATION-
-this is a web application to showcase on how to integrate with M PESA DARAJA PAYMENT 
+# Daraja-2.0-C2B-Intergration👨‍💻
+made with 💖 BY Emmanuel Kiptum
+edit the credentials in stk_initiate.php and it will work perfectly🔥
